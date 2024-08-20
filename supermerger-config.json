@@ -1490,8 +1490,8 @@
     "sd_checkpoint_dropdown_use_short": false,
     "hires_fix_show_sampler": false,
     "hires_fix_show_prompts": false,
-    "txt2img_settings_accordion": false,
-    "img2img_settings_accordion": false,
+    "txt2img_settings_accordion": true,
+    "img2img_settings_accordion": true,
     "interrupt_after_current": true,
     "localization": "None",
     "quicksettings_list": [
