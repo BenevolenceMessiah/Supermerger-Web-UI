@@ -1503,7 +1503,11 @@
         "Train",
         "Settings"
     ],
-    "hidden_tabs": [],
+    "hidden_tabs": [
+        "Extras",
+        "PNG Info",
+        "Extensions"
+    ],
     "ui_reorder_list": [],
     "gradio_theme": "ysharma/steampunk",
     "gradio_themes_cache": true,
