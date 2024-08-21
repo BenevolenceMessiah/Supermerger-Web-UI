@@ -1506,8 +1506,7 @@
     "hidden_tabs": [
         "Extras",
         "PNG Info",
-        "Extensions",
-        "Settings"
+        "Extensions"
     ],
     "ui_reorder_list": [],
     "gradio_theme": "ysharma/steampunk",
